@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<library path="sketch_bot_ar_manipulator_moveit_ikfast_plugin">
+  <class name="sketch_bot_ar_manipulator/IKFastKinematicsPlugin" type="sketch_bot_ar_manipulator::IKFastKinematicsPlugin" base_class_type="kinematics::KinematicsBase">
+    <description>IKFast61 plugin for closed-form kinematics of sketch_bot ar_manipulator</description>
+  </class>
+</library>
